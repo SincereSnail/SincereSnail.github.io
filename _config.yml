@@ -114,8 +114,8 @@ analytics:
 author:
   name             : "강민호"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "난 아직 **성장기**"
-  location         : "대한민국 서울울"
+  bio              : "아직 **성장기**"
+  location         : "대한민국 서울"
   email            :
   links:
     - label: "Email"
